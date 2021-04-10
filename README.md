@@ -3,21 +3,22 @@
 <h1 align="center">I'm Abdulla Hill Baky</h1>
 <h3 align="center">A Software Engineer from India</h3>
 
+A little more about me...  
 ```javascript
-var abdulla = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "HTML", "CSS"],
-    askMeAbout: ["tech","photography"],
-    technologies: {
-        frontEnd: ["JavaScript","HTML","CSS","ReactJS","Bootstrap"],
-        backEnd: ["NodeJS","ExpressJS"],
-        databases: ["mongoDB", "MySql"],
-        cloud: ["AWS", "Firebase"] 
-    },
-    architecture: ["Serverless Architecture", "Single page applications"],
-    currentProject: "I am developing ",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+let hillbyte = {
+  pronouns: "He" | "Him",
+  language: ["Javascript", "HTML", "CSS"],
+  technologies: {
+    frontEnd: ["JavaScript", "ReactJs", "HTML", "CSS", "Bootstrap"],
+    backEnd: ["NodeJS", "ExpressJS"],
+    dataBases: ["MongoDB", "MySql"],
+    cloud: ["AWS", "Firebase"],
+    tools: ["GIT", "Github", "VIM", "GNU/Linux"],
+  },
+  funFact:
+    "There are two ways to write error-free programs; only the third one works",
 };
+
 ```
 
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
