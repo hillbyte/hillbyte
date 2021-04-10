@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World!
 
 <!--
 **hillbyte/hillbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Abdulla Hill Baky</h1>
 <h3 align="center">A Full Stack Web developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/hillbyte" target="blank"><img src="https://img.shields.io/twitter/follow/hillbyte?logo=twitter&style=for-the-badge" alt="hillbyte" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/hillbyte" target="blank"><img src="https://img.shields.io/twitter/follow/hillbyte?logo=twitter&style=for-the-badge" alt="hillbyte" /></a> 
+   <a href="https://linkedin.com/in/hillbyte" target="blank"><img src="https://img.shields.io/linkedin/follow/hillbyte?logo=linkedin&style=for-the-badge" alt="hillbyte" /></a> 
+
+</p>
 
 - 👨‍💻 All of my projects are available at [portfolio.hillbaky.me](portfolio.hillbaky.me)
 
