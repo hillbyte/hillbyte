@@ -12,9 +12,7 @@ var abdulla = {
         frontEnd: ["JavaScript","HTML","CSS","ReactJS","Bootstrap"],
         backEnd: ["NodeJS","ExpressJS"],
         databases: ["mongoDB", "MySql"],
-        devOps: ["AWS", "Route53", "Nginx"],
-        
-       
+        cloud: ["AWS", "Firebase"] 
     },
     architecture: ["Serverless Architecture", "Single page applications"],
     currentProject: "I am developing ",
