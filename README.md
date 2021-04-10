@@ -30,7 +30,7 @@ let skills = {
 ```
 
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
-- 📫 How to reach me:⤵
+- 📫 How to reach me: 👇
 
 
 [![Mail](https://img.shields.io/badge/-MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulla@hillbaky.me)
