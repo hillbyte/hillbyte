@@ -17,7 +17,7 @@ let skills = {
     backEnd: ["NodeJS", "ExpressJS"],
     dataBases: ["MongoDB", "MySql"],
     tools: ["GIT", "Github", "VIM", "GNU/Linux"],
-    learing: ["AWS", "Firebase"],
+    learning: ["AWS", "Firebase"],
   },
   industryKnowledge: [
     "Data Structures",
