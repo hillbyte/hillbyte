@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Abdulla Hill Baky</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Web developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/hillbyte" target="blank"><img src="https://img.shields.io/twitter/follow/hillbyte?logo=twitter&style=for-the-badge" alt="hillbyte" /></a> </p>
 
