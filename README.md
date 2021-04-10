@@ -4,20 +4,16 @@
 <h3 align="center">A Software Engineer from India</h3>
 
 ```javascript
-const abdulla = {
+var abdulla = {
     pronouns: "He" | "Him",
     code: ["Javascript", "HTML", "CSS"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    askMeAbout: ["tech","photography"],
     technologies: {
-        frontEnd: {
-            js: ["React"],
-            css: ["Material UI","bootstrap"]
-        },
-        backEnd: {
-            js: ["node", "express"],
-        },
+        frontEnd: ["JavaScript","HTML","CSS","ReactJS","Bootstrap"],
+        backEnd: ["NodeJS","ExpressJS"],
+        databases: ["mongoDB", "MySql"],
         devOps: ["AWS", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
+        
        
     },
     architecture: ["Serverless Architecture", "Single page applications"],
