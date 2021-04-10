@@ -10,15 +10,14 @@
  
 More about me...
 ```javascript
-let hillbyte = {
-  pronouns: "He" | "Him",
+let skills = {
   language: ["Javascript", "HTML", "CSS"],
   technologies: {
     frontEnd: ["JavaScript", "ReactJs", "HTML", "CSS", "Bootstrap"],
     backEnd: ["NodeJS", "ExpressJS"],
     dataBases: ["MongoDB", "MySql"],
-    cloud: ["AWS", "Firebase"],
     tools: ["GIT", "Github", "VIM", "GNU/Linux"],
+    learing: ["AWS", "Firebase"],
   },
   industryKnowledge: [
     "Data Structures",
@@ -31,7 +30,7 @@ let hillbyte = {
 ```
 
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
-- 📫 How to reach me: ...
+- 📫 How to reach me:⤵
 
 
 [![Mail](https://img.shields.io/badge/-MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulla@hillbaky.me)
