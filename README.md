@@ -1,12 +1,12 @@
 ### Hello World!
 
 <h1 align="center">I'm Abdulla Hill Baky</h1>
-<h3 align="center">A Software Engineer from India</h3>
+<h3 align="center">Just an Engineer who writes Code</h3>
 
 - 🔭 I’m currently working on Bugs.
 - 🌱 I’m currently exploring Cloud Devlopment.
 - 🤔 I’m looking for help with System Design.
-- 💬 Ask me about Tech, Story.
+
  
 More about me...
 ```javascript
@@ -36,7 +36,7 @@ I love connecting with different people so if you want to say hi, I'll be happy 
 [![Mail](https://img.shields.io/badge/-MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulla@hillbaky.me)
 [![Twitter](https://img.shields.io/badge/-Twitter-2CA5E0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hillbyte)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hillbyte/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://portfolio.hillbaky.me)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://hillbaky.me)
 
 <!--
 - 🔭 I’m currently working on ...
@@ -47,6 +47,7 @@ I love connecting with different people so if you want to say hi, I'll be happy 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 💬 Ask me about Tech, Story.
 
 -->
 
