@@ -13,7 +13,7 @@ More about me...
 let skills = {
   language: ["Javascript", "HTML", "CSS"],
   technologies: {
-    frontEnd: ["JavaScript", "ReactJs", "HTML", "CSS", "Bootstrap"],
+    frontEnd: ["JavaScript", "ReactJs","NextJS" "HTML", "CSS", "Bootstrap"],
     backEnd: ["NodeJS", "ExpressJS"],
     dataBases: ["MongoDB", "MySql"],
     tools: ["GIT", "Github", "VIM", "GNU/Linux"],
