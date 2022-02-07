@@ -3,9 +3,6 @@
 <h1 align="center">I'm Abdulla Hill Baky</h1>
 <h3 align="center">Just an Engineer who writes Code</h3>
 
-- 🔭 I’m currently working on Bugs.
-- 🌱 I’m currently exploring Cloud Devlopment.
-- 🤔 I’m looking for help with System Design.
 
  
 More about me...
@@ -39,6 +36,12 @@ I love connecting with different people so if you want to say hi, I'll be happy 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://ahb.deskcloud.tech)
 
 <!--
+
+
+- 🔭 I’m currently working on Bugs.
+- 🌱 I’m currently exploring Cloud Devlopment.
+- 🤔 I’m looking for help with System Design.
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
